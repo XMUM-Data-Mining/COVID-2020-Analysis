@@ -1,0 +1,7 @@
+snownlp==0.12.3
+pyecharts==1.8.1
+echarts-china-cities-pypkg==0.0.9
+echarts-china-counties-pypkg==0.0.2
+echarts-china-provinces-pypkg==0.0.3
+echarts-countries-pypkg==0.1.6
+pandas==1.1.2
