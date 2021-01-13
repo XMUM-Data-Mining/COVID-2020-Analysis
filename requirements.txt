@@ -1,4 +1,4 @@
-snownlp==0.12.3
+jieba==0.42.1
 pyecharts==1.8.1
 echarts-china-cities-pypkg==0.0.9
 echarts-china-counties-pypkg==0.0.2
